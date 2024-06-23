@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saivarshith67/leetcode/tree/master/0002-add-two-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Two Pointers
 |  |
@@ -18,3 +19,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saivarshith67/leetcode/tree/master/0001-two-sum) |
+# Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saivarshith67/leetcode/tree/master/0002-add-two-numbers) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saivarshith67/leetcode/tree/master/0002-add-two-numbers) |
