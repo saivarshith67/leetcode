@@ -28,3 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saivarshith67/leetcode/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saivarshith67/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saivarshith67/leetcode/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
