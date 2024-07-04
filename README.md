@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/saivarshith67/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/saivarshith67/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/saivarshith67/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -66,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saivarshith67/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saivarshith67/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
