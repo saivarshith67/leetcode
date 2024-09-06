@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/saivarshith67/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saivarshith67/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
