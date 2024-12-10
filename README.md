@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/saivarshith67/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/saivarshith67/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/saivarshith67/leetcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/saivarshith67/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/saivarshith67/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/saivarshith67/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
