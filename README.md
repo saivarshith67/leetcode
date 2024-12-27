@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saivarshith67/leetcode/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/saivarshith67/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Array
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saivarshith67/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saivarshith67/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Database
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/saivarshith67/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saivarshith67/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
