@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saivarshith67/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/saivarshith67/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saivarshith67/leetcode/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/saivarshith67/leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saivarshith67/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/saivarshith67/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saivarshith67/leetcode/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/saivarshith67/leetcode/tree/master/0494-target-sum) |
 ## Database
 |  |
 | ------- |
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saivarshith67/leetcode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/saivarshith67/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
