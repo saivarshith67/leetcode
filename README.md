@@ -47,14 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivarshith67/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/saivarshith67/leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivarshith67/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/saivarshith67/leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saivarshith67/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/saivarshith67/leetcode/tree/master/0100-same-tree) |
 ## Design
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/saivarshith67/leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/saivarshith67/leetcode/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saivarshith67/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
