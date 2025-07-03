@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saivarshith67/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/saivarshith67/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saivarshith67/leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/saivarshith67/leetcode/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/saivarshith67/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saivarshith67/leetcode/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saivarshith67/leetcode/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/saivarshith67/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/saivarshith67/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
