@@ -1,16 +1,21 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        map<char, int> hashMapS, hashMapT; // Fix: key should be `char`
+        if (s.length() != t.length())
+            return false;
 
-        for (char ch : s) {
-            hashMapS[ch]++;
+        int count[26] = {0};
+
+        for (int i = 0; i < s.length(); ++i) {
+            count[s[i] - 'a']++;
+            count[t[i] - 'a']--;
         }
 
-        for (char ch : t) {
-            hashMapT[ch]++;
+        for (int i = 0; i < 26; ++i) {
+            if (count[i] != 0)
+                return false;
         }
 
-        return hashMapS == hashMapT;
+        return true;
     }
 };
