@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saivarshith67/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saivarshith67/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/saivarshith67/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saivarshith67/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saivarshith67/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/saivarshith67/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saivarshith67/leetcode/tree/master/0213-house-robber-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saivarshith67/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/saivarshith67/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saivarshith67/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivarshith67/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/saivarshith67/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saivarshith67/leetcode/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
