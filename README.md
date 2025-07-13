@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/saivarshith67/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saivarshith67/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/saivarshith67/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivarshith67/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/saivarshith67/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saivarshith67/leetcode/tree/master/0518-coin-change-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/saivarshith67/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saivarshith67/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivarshith67/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -154,9 +156,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/saivarshith67/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saivarshith67/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
