@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saivarshith67/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/saivarshith67/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saivarshith67/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/saivarshith67/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saivarshith67/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saivarshith67/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/saivarshith67/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saivarshith67/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saivarshith67/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/saivarshith67/leetcode/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/saivarshith67/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
