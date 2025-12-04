@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/saivarshith67/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/saivarshith67/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/saivarshith67/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/saivarshith67/leetcode/tree/master/0739-daily-temperatures) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivarshith67/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/saivarshith67/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saivarshith67/leetcode/tree/master/0518-coin-change-ii) |
+| [0739-daily-temperatures](https://github.com/saivarshith67/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/saivarshith67/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saivarshith67/leetcode/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/saivarshith67/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
