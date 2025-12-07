@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saivarshith67/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/saivarshith67/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saivarshith67/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saivarshith67/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/saivarshith67/leetcode/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/saivarshith67/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/saivarshith67/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saivarshith67/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/saivarshith67/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/saivarshith67/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/saivarshith67/leetcode/tree/master/0128-longest-consecutive-sequence) |
