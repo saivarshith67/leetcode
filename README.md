@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saivarshith67/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saivarshith67/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/saivarshith67/leetcode/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/saivarshith67/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
