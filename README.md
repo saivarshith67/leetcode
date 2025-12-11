@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivarshith67/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/saivarshith67/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saivarshith67/leetcode/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/saivarshith67/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/saivarshith67/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/saivarshith67/leetcode/tree/master/0853-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/saivarshith67/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -248,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saivarshith67/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/saivarshith67/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
