@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saivarshith67/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/saivarshith67/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saivarshith67/leetcode/tree/master/0242-valid-anagram) |
+| [3606-coupon-code-validator](https://github.com/saivarshith67/leetcode/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/saivarshith67/leetcode/tree/master/0853-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/saivarshith67/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3606-coupon-code-validator](https://github.com/saivarshith67/leetcode/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saivarshith67/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3606-coupon-code-validator](https://github.com/saivarshith67/leetcode/tree/master/3606-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saivarshith67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/saivarshith67/leetcode/tree/master/0853-car-fleet) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3606-coupon-code-validator](https://github.com/saivarshith67/leetcode/tree/master/3606-coupon-code-validator) |
 ## Counting Sort
 |  |
 | ------- |
