@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/saivarshith67/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/saivarshith67/leetcode/tree/master/0853-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/saivarshith67/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/saivarshith67/leetcode/tree/master/0994-rotting-oranges) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3606-coupon-code-validator](https://github.com/saivarshith67/leetcode/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saivarshith67/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/saivarshith67/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saivarshith67/leetcode/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/saivarshith67/leetcode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/saivarshith67/leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/saivarshith67/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/saivarshith67/leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
