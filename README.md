@@ -261,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saivarshith67/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/saivarshith67/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/saivarshith67/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
