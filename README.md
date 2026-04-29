@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/saivarshith67/leetcode/tree/master/1929-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saivarshith67/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/saivarshith67/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/saivarshith67/leetcode/tree/master/0994-rotting-oranges) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saivarshith67/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1929-concatenation-of-array](https://github.com/saivarshith67/leetcode/tree/master/1929-concatenation-of-array) |
 | [3606-coupon-code-validator](https://github.com/saivarshith67/leetcode/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
